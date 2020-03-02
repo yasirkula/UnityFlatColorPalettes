@@ -4,8 +4,8 @@ This repository contains a number of color palette assets for Unity. These palet
 
 ## Credits
 
-**MaterialUiColors:** http://materialuicolors.co/
-**All other palettes:** https://flatuicolors.com/
+- **MaterialUiColors:** http://materialuicolors.co/
+- **All other palettes:** https://flatuicolors.com/
 
 ## Previews
 
